@@ -1,6 +1,6 @@
 ---
 title: Uniden UBC125XLT Manual
-aliases: [Home, UBC125XLT, Scanner Manual, Index]
+aliases: [Home, UBC125XLT, Scanner Manual]
 tags: [ubc125xlt, moc]
 ---
 
